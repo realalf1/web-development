@@ -3,13 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halaman Dashboard</title>
+    <title>Dashboard page v1.0</title>
 </head>
 <body>
-
-    <h1>Selamat Datang di Dashboard</h1>
-
-    <?php include 'layout/footer.html'?>
-
+    <h1>Welcome to Dashboard page v1.0</h1>
 </body>
 </html>
