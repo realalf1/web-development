@@ -10,4 +10,4 @@ Learning web development using HTML, CSS and especially PHP Programming.
 
 
 #### Note
-You can change port number and ensure you also must have mysql as relational database manage system. This repository is integrated with mysql.
+You can change port number and ensure you also must have mysql as relational database manage system. The files are integrated with mysql.
