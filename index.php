@@ -5,12 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Main page v1.0</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
     
     <?php include 'layout/header.html'?>
 
     <main>
-        <h1>This is main page v1.0</h1>
+        <h1 class="p mx-auto">This is main page v1.0</h1>
     </main>
 
     <?php include 'layout/footer.html' ?>

@@ -27,10 +27,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Halaman Daftar</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 <body>
+
+    <?php include 'layout/header.html' ?>
     
-    <h3>Ini Konten Register bagian Register akun</h3>
+    <h3>Ini Konten Register</h3>
     <form action="register.php" method="POST">
         <input type="username" name="username" placeholder="Masukin username" /> 
         <input type="password" name="password" placeholder="Masukin password" /> &nbsp;
